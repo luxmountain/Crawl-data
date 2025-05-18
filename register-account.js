@@ -1,3 +1,5 @@
+// Tạo các user giả
+
 const axios = require("axios");
 const { faker } = require("@faker-js/faker");
 
@@ -14,7 +16,7 @@ function generateSafeUsername(firstName, lastName, usedUsernames) {
   return username;
 }
 
-async function seedUsers(count = 50) {
+async function seedUsers(count = 100) {
   const usedEmails = new Set();
   const usedUsernames = new Set();
 
@@ -57,4 +59,4 @@ async function seedUsers(count = 50) {
   }
 }
 
-seedUsers(50);
+seedUsers(100);
