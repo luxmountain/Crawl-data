@@ -1,0 +1,23 @@
+{
+  "name": "crawl-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@faker-js/faker": "^9.7.0",
+    "axios": "^1.9.0",
+    "cheerio": "^1.0.0",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.7.0",
+    "path": "^0.12.7",
+    "playwright": "^1.51.1",
+    "puppeteer": "^24.8.2"
+  }
+}

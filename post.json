@@ -1,0 +1,551 @@
+[
+  {
+    "url": "https://promptden.com/post/instagram-post-description-keyword-generator",
+    "title": "Instagram Post Description & Keyword Generator",
+    "description": "We just released our browser extension that let's you quickly use, create and discover prompts right inside ChatGPT, Claude, Gemini & more!",
+    "prompt_used": "Craft a brief and captivating caption or description for an Instagram post for subject. Each sentence should be written on a new line for readability. Use appropriate emojis and hashtags to maximize engagement. Ensure that the first sentence hooks the reader without starting with \\\"Are you curious?\\\" and that the entire caption is written in English.",
+    "model": "DALL-E",
+    "tags": [
+      "Social Media",
+      "Content",
+      "Instagram Post",
+      "Description",
+      "Keyword",
+      "Generator"
+    ],
+    "image_url": ""
+  },
+  {
+    "url": "https://promptden.com/post/synthwave-fantasy-art-print-stars-planets-on-water",
+    "title": "Synthwave Fantasy Art Print: Stars & Planets on Water",
+    "description": "Our browser extension that let's you share images directly from MidJourney! It also has integrations with ChatGPT, Claude, Gemini & more.",
+    "prompt_used": "Stars, planets, stars in water on canvas art print | ukai, in the style of synthwave, fantasy landscapes, detailed background elements, lens flare, sea and coast painter, panorama, scattered composition",
+    "model": "MidJourney",
+    "tags": [
+      "Canvas Art",
+      "Synthwave",
+      "Cosmic",
+      "Journey",
+      "Stars",
+      "Planets",
+      "Fantasy Landscapes",
+      "Magic"
+    ],
+    "image_url": "https://cdn.promptden.com/images/9059e936-86c0-417c-b8fa-b2af46e0aa66.png?class=standard"
+  },
+  {
+    "url": "https://promptden.com/post/dockergpt-your-docker-expert",
+    "title": "DockerGPT: Your Docker Expert",
+    "description": "We just released our browser extension that let's you quickly use, create and discover prompts right inside ChatGPT, Claude, Gemini & more!",
+    "prompt_used": "Please ignore all previous conversation. You are DockerGPT, an expert in Docker that speaks and writes fluent English. Answer the following question based on your knowledge of Docker: question",
+    "model": "DALL-E",
+    "tags": [
+      "Knowledge",
+      "Language",
+      "Docker",
+      "Expert",
+      "English"
+    ],
+    "image_url": ""
+  },
+  {
+    "url": "https://promptden.com/post/rock-candy-goddess-with-periwinkle-hair",
+    "title": "Rock Candy Goddess with Periwinkle Hair",
+    "description": "Our browser extension that let's you share images directly from MidJourney! It also has integrations with ChatGPT, Claude, Gemini & more.",
+    "prompt_used": "Portrait of beautiful female made of rock - candy with periwinkle - licorice hair looking at camera, intricate detail",
+    "model": "MidJourney",
+    "tags": [
+      "Detail",
+      "Beauty",
+      "Hair",
+      "Rock Candy",
+      "Sweet",
+      "Periwinkle",
+      "Intricate"
+    ],
+    "image_url": "https://cdn.promptden.com/images/ab6cbccc-4eee-465c-beca-ee4cb741d7ef.png?class=standard"
+  },
+  {
+    "url": "https://promptden.com/post/surviving-the-superb-owl-apocalypse",
+    "title": "Surviving the Superb Owl Apocalypse",
+    "description": "Our browser extension that let's you share images directly from MidJourney! It also has integrations with ChatGPT, Claude, Gemini & more.",
+    "prompt_used": "apocolyptic superb owl",
+    "model": "MidJourney",
+    "tags": [
+      "World",
+      "Nature",
+      "Owl",
+      "Performance",
+      "Show",
+      "Ending"
+    ],
+    "image_url": "https://cdn.promptden.com/images/fd18337f-9f91-4e76-ac15-f86513c796d2.webp?class=standard"
+  },
+  {
+    "url": "https://promptden.com/post/long-tail-high-volume-and-low-difficulty-keyword-generation",
+    "title": "Long-tail, high-volume and low-difficulty keyword generation",
+    "description": "We just released our browser extension that let's you quickly use, create and discover prompts right inside ChatGPT, Claude, Gemini & more!",
+    "prompt_used": "You are an SEO expert. Provide me with count long-tail, high-volume, low-difficulty keywords for topic of interest as if you’re a content marketer.",
+    "model": "DALL-E",
+    "tags": [
+      "Keyword",
+      "Generation",
+      "Keyword Generation",
+      "Long Tail",
+      "High Volume",
+      "Low Difficulty"
+    ],
+    "image_url": ""
+  },
+  {
+    "url": "https://promptden.com/post/unleash-your-style-with-nike-air-max",
+    "title": "Unleash Your Style with Nike Air Max",
+    "description": "Our browser extension that let's you share images directly from MidJourney! It also has integrations with ChatGPT, Claude, Gemini & more.",
+    "prompt_used": "A dynamic fashion advertisement for Nike Air featuring a young female model in a dramatic backward-leaning pose against a fluo green gradient background with flowing neon green organic shapes. The model wears a white oversized sweatshirt and orange cargo pants with chain accessories, complemented by a featured white Nike Air Max sneaker. The composition includes bold white typography displaying \"NIKE\", \"AIR\", and \"JUST DO IT\" in sans-serif fonts. The image combines professional fashion photography with modern graphic design elements, creating a powerful and contemporary athletic aesthetic.",
+    "model": "MidJourney",
+    "tags": [
+      "Style",
+      "Fashion",
+      "Dynamic",
+      "Bold",
+      "Street",
+      "Athlete",
+      "Trend"
+    ],
+    "image_url": "https://cdn.promptden.com/images/7069ee0e-fdb0-4660-af2c-bd7ed7f65dc0.jpg?class=standard"
+  },
+  {
+    "url": "https://promptden.com/post/exploring-bipolarity-expressive-graphic-design",
+    "title": "Exploring Bipolarity: Expressive Graphic Design",
+    "description": "Our browser extension that let's you share images directly from MidJourney! It also has integrations with ChatGPT, Claude, Gemini & more.",
+    "prompt_used": "Graphic poster design exploring the theme of bipolarity, abstract expressive typography, fragmented letterforms, layered glitch textures, brutalist layout, Swiss design meets grunge aesthetics, inspired by David Carson, Neville Brody, Buro Destruct, Pentagram, high contrast black and white with neon accents, emotional intensity, chaos and order visual tension+ use text",
+    "model": "MidJourney",
+    "tags": [
+      "Art",
+      "Design",
+      "Texture",
+      "Chaos",
+      "Emotions",
+      "Order",
+      "Forms"
+    ],
+    "image_url": "https://cdn.promptden.com/images/0bebac41-5d94-4713-aee6-d2d3d47a76ae.jpg?class=standard"
+  },
+  {
+    "url": "https://promptden.com/post/3d-donut-capsule-whimsical-farm-scene-in-detail",
+    "title": "3D Donut Capsule: Whimsical Farm Scene in Detail",
+    "description": "Our browser extension that let's you share images directly from MidJourney! It also has integrations with ChatGPT, Claude, Gemini & more.",
+    "prompt_used": "a 3d fragment donut wrapped in a capsule, floating in mid-air, twisted donut skin with grassland , mini cow and sheep on the grassland, photorealistic render, octane render, Cinema 4D+ use text",
+    "model": "MidJourney",
+    "tags": [
+      "Vibrant",
+      "Grass",
+      "Scene",
+      "Sheep",
+      "Air",
+      "Donut",
+      "Cows"
+    ],
+    "image_url": "https://cdn.promptden.com/images/5e1448f8-6ec6-4b3e-a66a-d06c488726e6.jpg?class=standard"
+  },
+  {
+    "url": "https://promptden.com/post/stunning-double-exposure-tropical-island-portrait",
+    "title": "Stunning Double Exposure: Tropical Island Portrait",
+    "description": "Our browser extension that let's you share images directly from MidJourney! It also has integrations with ChatGPT, Claude, Gemini & more.",
+    "prompt_used": "portrait of a black woman, double exposure, landscape of a tropical island, white background, photo quality, very detailed photo, intricate details+ use text",
+    "model": "MidJourney",
+    "tags": [
+      "Nature",
+      "Woman",
+      "Portrait",
+      "Tropical",
+      "Culture",
+      "Island"
+    ],
+    "image_url": "https://cdn.promptden.com/images/1e2cffd9-4da0-4cdd-a946-4e42986ce311.jpg?class=standard"
+  },
+  {
+    "url": "https://promptden.com/post/discover-a-fairy-kingdom-inside-a-pastel-egg",
+    "title": "Discover a Fairy Kingdom Inside a Pastel Egg",
+    "description": "Our browser extension that let's you share images directly from MidJourney! It also has integrations with ChatGPT, Claude, Gemini & more.",
+    "prompt_used": "A pastel-colored Easter egg with hand-painted flowers inspired by Edith Holden, cracked open to reveal a fairy kingdom, ultra-detailed fantasy realism,",
+    "model": "MidJourney",
+    "tags": [
+      "Pastel",
+      "Fantasy",
+      "Flowers",
+      "Fairy",
+      "Egg",
+      "Easter"
+    ],
+    "image_url": "https://cdn.promptden.com/images/ce6fde79-1c8b-4ebb-971f-b11bce432cce.jpg?class=standard"
+  },
+  {
+    "url": "https://promptden.com/post/captivating-night-moonlit-waterfalls-in-hd-art",
+    "title": "Captivating Night: Moonlit Waterfalls in HD Art",
+    "description": "Our browser extension that let's you share images directly from MidJourney! It also has integrations with ChatGPT, Claude, Gemini & more.",
+    "prompt_used": "The moon is like water, the full and round moon shines on Earth with its soft light. The night sky is filled with stars, and there's an empty valley under the bright, large yellow moon. The waterfall flows down from top to bottom, shining with a golden light, dazzling, and below are some small streams flowing slowly. It seems that you can see clear details of the rocks through the waterfall. This scene invokes deep contemplation. Ultra-wide-angle lens, in the style of fine art photography, high-definition quality.+ use text",
+    "model": "MidJourney",
+    "tags": [
+      "Stars",
+      "Reflection",
+      "Night",
+      "Moonlight",
+      "Valley",
+      "Waterfall"
+    ],
+    "image_url": "https://cdn.promptden.com/images/23dac53a-b65a-4106-b7f9-69277e0b46de.jpg?class=standard"
+  },
+  {
+    "url": "https://promptden.com/post/cyber-pilot-stunning-cosplay-of-a-mecha-heroine",
+    "title": "Cyber Pilot: Stunning Cosplay of a Mecha Heroine",
+    "description": "Our browser extension that let's you share images directly from MidJourney! It also has integrations with ChatGPT, Claude, Gemini & more.",
+    "prompt_used": "cyber pilot, \"34\", a cute Chinese girl in short tight pants, crop oversized loose long-sleeved pullover, silver hair, gorgeous curves, get out from mecha, chubby, dumpy, cockpit, mechanical rabbit ears, studio photography, game cosplay+ use text",
+    "model": "MidJourney",
+    "tags": [
+      "Art",
+      "Style",
+      "Creativity",
+      "Mecha",
+      "Cosplay",
+      "Curve"
+    ],
+    "image_url": "https://cdn.promptden.com/images/d1812928-e5aa-469b-b639-7f044a62d859.jpg?class=standard"
+  },
+  {
+    "url": "https://promptden.com/post/vibrant-lotus-lily-pad-water-scene-high-definition",
+    "title": "Vibrant Lotus & Lily Pad Water Scene - High Definition",
+    "description": "Our browser extension that let's you share images directly from MidJourney! It also has integrations with ChatGPT, Claude, Gemini & more.",
+    "prompt_used": "A colorful illustration of lotus flowers and leaves floating on the water, creating ripples on its surface. The petals have various colors such as pink, purple, green, and white. There is also some sunlight shining through them. On top of it were many large lily pads with their vibrant shades of light blue to dark emerald green. This scene was captured in high definition, showcasing the intricate details of each petal and leaf.+ use text",
+    "model": "MidJourney",
+    "tags": [
+      "Colors",
+      "Reflection",
+      "Nature",
+      "Flowers",
+      "Water",
+      "Lotus"
+    ],
+    "image_url": "https://cdn.promptden.com/images/67539a6c-12fe-4af4-9f31-8da5a73993ff.jpg?class=standard"
+  },
+  {
+    "url": "https://promptden.com/post/premium-transparent-heart-packaging-photography",
+    "title": "Premium Transparent Heart Packaging Photography",
+    "description": "Our browser extension that let's you share images directly from MidJourney! It also has integrations with ChatGPT, Claude, Gemini & more.",
+    "prompt_used": "high-quality product photography of small transparent plastic human hearts tightly packed in a transparent rectangular vacuum bag, the package has a silver metallized sheen, the texture of the packaging creates the effect of a membrane tightly fitting the smileys with many folds and bends, perfectly conforming to their shape, which are significantly deformed by vacuum, stylish black barcodes and stickers, a white technological minimalist sticker with high-quality black \"Ctrl Studio\" lettering, and an additional stylish barcode, y2k style, extreme detail and realistic textures, professional lighting, photographed by Steven Klein, using a Pentax 645Z camera with an FA 120mm f/4 Macro lens, completely black background, contemporary and stylish composition+ use text",
+    "model": "MidJourney",
+    "tags": [
+      "Design",
+      "Texture",
+      "Silver",
+      "Minimal",
+      "Hearts",
+      "Packaging"
+    ],
+    "image_url": "https://cdn.promptden.com/images/0ac79eea-bc2d-42a9-b6f5-985db05fa92f.jpg?class=standard"
+  },
+  {
+    "url": "https://promptden.com/post/experience-dreamlike-landscapes-with-style",
+    "title": "Experience Dreamlike Landscapes with Style",
+    "description": "Our browser extension that let's you share images directly from MidJourney! It also has integrations with ChatGPT, Claude, Gemini & more.",
+    "prompt_used": "A young man walks along cascading mountains, surrounded by vibrant green meadows, designed by Louis Vuitton + Issy Miyake. The lone woman, dressed in a white suit, contrasts with the green landscape, giving the image a surreal and dreamlike quality. The path gently cuts through the terrain, provoking thoughts on loneliness, direction, and individuality, no human.+ use text",
+    "model": "MidJourney",
+    "tags": [
+      "Figure",
+      "Mountain",
+      "Green",
+      "Outdoors",
+      "Path",
+      "Solitude"
+    ],
+    "image_url": "https://cdn.promptden.com/images/a8542f4a-385d-424a-aae9-14fdf056feab.jpg?class=standard"
+  },
+  {
+    "url": "https://promptden.com/post/elevate-your-look-with-sunrazor-lip-gloss",
+    "title": "Elevate Your Look with SUNRAZOR Lip Gloss",
+    "description": "Our browser extension that let's you share images directly from MidJourney! It also has integrations with ChatGPT, Claude, Gemini & more.",
+    "prompt_used": "a close-up shot of plump puerto rican woman's lips with neutral pink glossy shimmering lip gloss holding white large oblong red translucent pill between the lips that says \"SUNRAZOR\", front view, product photography,",
+    "model": "MidJourney",
+    "tags": [
+      "Beauty",
+      "Nature",
+      "Vibrant",
+      "Color",
+      "Health",
+      "Wellness"
+    ],
+    "image_url": "https://cdn.promptden.com/images/beb2e9e7-4209-40fd-91c5-e9657a78680f.jpg?class=standard"
+  },
+  {
+    "url": "https://promptden.com/post/tech-samurai-embrace-the-future-in-bold-style",
+    "title": "Tech Samurai: Embrace the Future in Bold Style",
+    "description": "Our browser extension that let's you share images directly from MidJourney! It also has integrations with ChatGPT, Claude, Gemini & more.",
+    "prompt_used": "a tech samurai, full body, bold, japanese style writing, black background,+ use text",
+    "model": "MidJourney",
+    "tags": [
+      "Art",
+      "Fusion",
+      "Innovation",
+      "Samurai",
+      "Tradition",
+      "Tech"
+    ],
+    "image_url": "https://cdn.promptden.com/images/73588d47-5dfd-49e9-803e-329ec34b3de2.jpg?class=standard"
+  },
+  {
+    "url": "https://promptden.com/post/journey-through-the-enchanted-vegetable-forest",
+    "title": "Journey Through the Enchanted Vegetable Forest",
+    "description": "Our browser extension that let's you share images directly from MidJourney! It also has integrations with ChatGPT, Claude, Gemini & more.",
+    "prompt_used": "A magical enchanted forest with giant sleeping zucchini trolls covered in moss, towering dandelion puff soldiers swaying gently, glowing fruit trees, twisting oversized vines and leaves along the path. A young carrot girl with smooth orange skin, sprout-like green hair tied in messy buns, wearing a tunic made of layered cabbage leaves and a corn-husk satchel, walks cautiously. Beside her, a tiny round green pea with twig-like arms and big curious eyes perches on her shoulder. They journey together down a winding vine-covered path through a surreal fairy tale forest, cinematic fantasy lighting, storybook aesthetic, soft felt and clay textures, highly detailed environment",
+    "model": "MidJourney",
+    "tags": [
+      "Magic",
+      "Forest",
+      "Nature",
+      "Adventure",
+      "Enchantment",
+      "Vegetable"
+    ],
+    "image_url": "https://cdn.promptden.com/images/d3007095-5a0a-4ead-b1f7-eecd1a0edb03.jpg?class=standard"
+  },
+  {
+    "url": "https://promptden.com/post/surreal-pink-leopard-flower-illustrations",
+    "title": "Surreal Pink Leopard Flower Illustrations",
+    "description": "Our browser extension that let's you share images directly from MidJourney! It also has integrations with ChatGPT, Claude, Gemini & more.",
+    "prompt_used": "Pink Leopard Flower Series Illustrations, Surrounded by Butterflies in Pink Flowers, Pink, Adopting a Digital Art Style, Interesting Juxtaposition, Strong Close ups, Fantastic Images, Surrealist Animal Illustrations, Color Animation, Nature Inspired Images, Beast like Colors, Watercolor Painting, Noble Wilderness",
+    "model": "MidJourney",
+    "tags": [
+      "Art",
+      "Digital",
+      "Nature",
+      "Color",
+      "Wildlife",
+      "Flower",
+      "Dance"
+    ],
+    "image_url": "https://cdn.promptden.com/images/fab237cf-2961-4c82-955d-a036869619ad.jpg?class=standard"
+  },
+  {
+    "url": "https://promptden.com/post/pastel-dreams-ethereal-shapes-dynamic-gradients",
+    "title": "Pastel Dreams: Ethereal Shapes & Dynamic Gradients",
+    "description": "Our browser extension that let's you share images directly from MidJourney! It also has integrations with ChatGPT, Claude, Gemini & more.",
+    "prompt_used": "Ethereal shapes, pastel colors, dynamic gradients, subtle textures.",
+    "model": "MidJourney",
+    "tags": [
+      "Beauty",
+      "Landscape",
+      "Hues",
+      "Dream",
+      "Flow",
+      "Forms",
+      "Soft"
+    ],
+    "image_url": "https://cdn.promptden.com/images/e71ecbd9-928c-4f5e-b5a8-79c730ccd34a.jpg?class=standard"
+  },
+  {
+    "url": "https://promptden.com/post/surreal-teacup-odyssey-waves-and-storms-collide",
+    "title": "Surreal Teacup Odyssey: Waves and Storms Collide",
+    "description": "Our browser extension that let's you share images directly from MidJourney! It also has integrations with ChatGPT, Claude, Gemini & more.",
+    "prompt_used": "A Victorian bone china teacup with gold trim and delicate porcelain detailing on a wet table surface, filled with a raging ocean storm. A surfer carves a wave inside the cup as a massive water tornado spirals upward into the sky. Rain and ocean spray splash out of the teacup. No fire. Dramatic clouds, dynamic lighting, realistic water physics, highly detailed, surreal cinematic composition",
+    "model": "MidJourney",
+    "tags": [
+      "Beauty",
+      "Elegance",
+      "Chaos",
+      "Teacup",
+      "Tempest",
+      "Drop",
+      "Contradiction"
+    ],
+    "image_url": "https://cdn.promptden.com/images/99f458e4-cc0a-4978-b70f-9a977a1f081b.jpg?class=standard"
+  },
+  {
+    "url": "https://promptden.com/post/surreal-dreamscapes-elephants-among-stars",
+    "title": "Surreal Dreamscapes: Elephants Among Stars",
+    "description": "Our browser extension that let's you share images directly from MidJourney! It also has integrations with ChatGPT, Claude, Gemini & more.",
+    "prompt_used": "Dreamscape, elephant, stars, golden composition with negative space, masterpiece. Surrealist photography, high quality.",
+    "model": "MidJourney",
+    "tags": [
+      "Art",
+      "Sky",
+      "Stars",
+      "Golden",
+      "Dreams",
+      "Elephant",
+      "Float"
+    ],
+    "image_url": "https://cdn.promptden.com/images/e677b7c3-b743-4b93-a162-f4b08a84f661.jpg?class=standard"
+  },
+  {
+    "url": "https://promptden.com/post/bauhaus-rooster-workshop-contemporary-printmaking",
+    "title": "Bauhaus Rooster Workshop: Contemporary Printmaking",
+    "description": "Our browser extension that let's you share images directly from MidJourney! It also has integrations with ChatGPT, Claude, Gemini & more.",
+    "prompt_used": "Digital poster design featuring a bauhaus-style black and white rooster in the center for a workshop showcasing contemporary printmaking. featuring the words \"WORKSHOP\". Uses a 9:16 vertical layout optimized for online viewing. Incorporates digital elements like pixelation and grids to highlight cultural crossover and digital innovation, appealing to a digitally savvy audience",
+    "model": "MidJourney",
+    "tags": [
+      "Art",
+      "Design",
+      "Space",
+      "Creativity",
+      "Workshop",
+      "Tech",
+      "Print"
+    ],
+    "image_url": "https://cdn.promptden.com/images/50e57ecd-3e3b-474f-8754-41b6d3ca7030.jpg?class=standard"
+  },
+  {
+    "url": "https://promptden.com/post/elevate-your-game-smart-gear-for-active-lifestyles",
+    "title": "Elevate Your Game: Smart Gear for Active Lifestyles",
+    "description": "Our browser extension that let's you share images directly from MidJourney! It also has integrations with ChatGPT, Claude, Gemini & more.",
+    "prompt_used": "A smartphone with sportswear accessories emerging from its screen, all floating out in a dynamic, stylish composition. The background is plain yellow. The objects are realistic and well-lit, with vibrant colors and clear details. 3D render style, high resolution, clean and modern aesthetic",
+    "model": "MidJourney",
+    "tags": [
+      "Style",
+      "Fashion",
+      "Technology",
+      "Innovation",
+      "Active",
+      "Sportswear"
+    ],
+    "image_url": "https://cdn.promptden.com/images/1fcfb41f-cad1-4992-82e5-fb13c3875297.jpg?class=standard"
+  },
+  {
+    "url": "https://promptden.com/post/stunning-cinematic-japanese-garden-with-sakura-blossom",
+    "title": "Stunning Cinematic Japanese Garden with Sakura Blossom",
+    "description": "Our browser extension that let's you share images directly from MidJourney! It also has integrations with ChatGPT, Claude, Gemini & more.",
+    "prompt_used": "Ultrarealistic, photorealistic, cinematic Japanese Garden with sacura blooming",
+    "model": "MidJourney",
+    "tags": [
+      "Pink",
+      "Nature",
+      "Serene",
+      "Garden",
+      "Outdoors",
+      "Blossom"
+    ],
+    "image_url": "https://cdn.promptden.com/images/b63b7e2f-b8b6-4a95-8a04-99bab456c1e0.jpg?class=standard"
+  },
+  {
+    "url": "https://promptden.com/post/discover-the-tiny-explorer-macro-doll-photography",
+    "title": "Discover the Tiny Explorer: Macro Doll Photography",
+    "description": "Our browser extension that let's you share images directly from MidJourney! It also has integrations with ChatGPT, Claude, Gemini & more.",
+    "prompt_used": "a macro photo of a tiny doll, smaller than a pink keyboard keycap, standing next to it and looking up. The keycap is large and textured, with visible printed letters. The doll wears a straw hat and explorer outfit, shot from a low angle to emphasize its small scale. hyper-realistic pastel lighting, soft focus, toy-like realism, cinematic depth of field.",
+    "model": "MidJourney",
+    "tags": [
+      "Awe",
+      "Adventure",
+      "Exploration",
+      "Impression",
+      "Tiny",
+      "Scale",
+      "Keycap"
+    ],
+    "image_url": "https://cdn.promptden.com/images/f25ebe14-62d3-4445-afb2-4d70bf8ca160.jpg?class=standard"
+  },
+  {
+    "url": "https://promptden.com/post/stunning-3d-abstract-heart-art-a-visual-journey",
+    "title": "Stunning 3D Abstract Heart Art: A Visual Journey",
+    "description": "Our browser extension that let's you share images directly from MidJourney! It also has integrations with ChatGPT, Claude, Gemini & more.",
+    "prompt_used": "3D abstract human heart, green background, shapes floating in the air combined into a single composition, realistic rendering, high texture refinement. Shapes made of glass, snake skin texture, metal waves, rubber, gold, cotton candy, wood, palm leaves, meteorite, nacre, brass wire, dried moss+ use text",
+    "model": "MidJourney",
+    "tags": [
+      "Art",
+      "Texture",
+      "Nature",
+      "Abstract",
+      "Heart",
+      "Emotion"
+    ],
+    "image_url": "https://cdn.promptden.com/images/1829620f-e712-45eb-946b-e39c5d21a966.jpg?class=standard"
+  },
+  {
+    "url": "https://promptden.com/post/luxury-beachside-tennis-play-in-paradise-today",
+    "title": "Luxury Beachside Tennis: Play in Paradise Today",
+    "description": "Our browser extension that let's you share images directly from MidJourney! It also has integrations with ChatGPT, Claude, Gemini & more.",
+    "prompt_used": "A luxurious beachside tennis court with a stunning DW color palette, featuring a court surface in a soft, sandy beige tone and accents of Estée Lauder-inspired blue, surrounded by swaying coconut palms and overlooking the crystal-clear turquoise ocean, where giant tennis ball buoys float in the distance, creating a playful and sophisticated seaside resort atmosphere under the warm tropical sun.+ use text",
+    "model": "MidJourney",
+    "tags": [
+      "Ocean",
+      "Blue",
+      "Sand",
+      "Beach",
+      "Court",
+      "Palms",
+      "Tennis"
+    ],
+    "image_url": "https://cdn.promptden.com/images/04b67c86-179f-40f9-9cdd-a7fa72b4b593.jpg?class=standard"
+  },
+  {
+    "url": "https://promptden.com/post/fierce-tiger-charge-captivating-black-white-art",
+    "title": "Fierce Tiger Charge: Captivating Black & White Art",
+    "description": "Our browser extension that let's you share images directly from MidJourney! It also has integrations with ChatGPT, Claude, Gemini & more.",
+    "prompt_used": "Black and white photograph of an angry tiger running towards the camera, full-body shot, realistic, hyper-realistic in the style of a photorealistic artist.+ use text",
+    "model": "MidJourney",
+    "tags": [
+      "Beauty",
+      "Nature",
+      "Power",
+      "Intensity",
+      "Wild",
+      "Tiger"
+    ],
+    "image_url": "https://cdn.promptden.com/images/98f1392e-ab4a-4937-ac26-cad7e3863745.jpg?class=standard"
+  },
+  {
+    "url": "https://promptden.com/post/urban-music-vibes-striking-vector-illustrations",
+    "title": "Urban Music Vibes: Striking Vector Illustrations",
+    "description": "Our browser extension that let's you share images directly from MidJourney! It also has integrations with ChatGPT, Claude, Gemini & more.",
+    "prompt_used": "Vector illustration of an urban graphic composition of mainstream music+ use text",
+    "model": "MidJourney",
+    "tags": [
+      "Art",
+      "Vibrant",
+      "Music",
+      "Energy",
+      "Urban",
+      "Graphic"
+    ],
+    "image_url": "https://cdn.promptden.com/images/c8081266-02a8-436f-b36d-5e7b13c799ec.jpg?class=standard"
+  },
+  {
+    "url": "https://promptden.com/post/elegant-red-flower-embroidery-on-black-background",
+    "title": "Elegant Red Flower Embroidery on Black Background",
+    "description": "Our browser extension that let's you share images directly from MidJourney! It also has integrations with ChatGPT, Claude, Gemini & more.",
+    "prompt_used": "a red embroidered flower, isolated element, black background, high resolution+ use text",
+    "model": "MidJourney",
+    "tags": [
+      "Detail",
+      "Contrast",
+      "Red",
+      "Flower",
+      "Black",
+      "Embroidered"
+    ],
+    "image_url": "https://cdn.promptden.com/images/f697325f-1b6a-47f5-8aae-3a6c59e90987.jpg?class=standard"
+  },
+  {
+    "url": "https://promptden.com/post/vibrant-watercolor-womens-sneakers-art",
+    "title": "Vibrant Watercolor Women's Sneakers Art",
+    "description": "Our browser extension that let's you share images directly from MidJourney! It also has integrations with ChatGPT, Claude, Gemini & more.",
+    "prompt_used": "A modern watercolor painting of a woman's feet wearing stylish Nike sneakers in vibrant yellow and pink tones. The sneakers have a retro-futuristic design with bold color blocking and soft textures, blending seamlessly into the delicate brushstrokes of the artwork. The woman wears a flowing pleated skirt, creating a dynamic contrast between movement and structure. The painting style is inspired by Henri Matisse’s expressive brushwork and Edward Hopper’s soft yet vivid color palette, evoking a sense of everyday elegance and urban energy. The background is minimal, focusing on the sneakers and the artistic play of light and shadow.+ use text",
+    "model": "MidJourney",
+    "tags": [
+      "Life",
+      "Style",
+      "Elegance",
+      "Artwork",
+      "Vibrant",
+      "Movement"
+    ],
+    "image_url": "https://cdn.promptden.com/images/afd9788f-2dad-4370-9190-9107fdeb4005.jpg?class=standard"
+  },
+  {
+    "url": "https://promptden.com/post/thrilling-motorcycle-race-through-city-heights",
+    "title": "",
+    "description": "",
+    "prompt_used": "",
+    "model": "DALL-E",
+    "tags": [],
+    "image_url": ""
+  }
+]
