@@ -49,7 +49,7 @@ async function main() {
     for (const post of posts) {
       if (!post.image_url) continue;
 
-      if (!post.image_url.startsWith("https://i.pinimg.com/")) {
+      if (!post.image_url.startsWith("https://cdn.promptden.com/images")) {
         console.log(`Bỏ qua post pid=${post.pid} vì không phải ảnh từ cdn.promptden.com`);
         continue;
       }

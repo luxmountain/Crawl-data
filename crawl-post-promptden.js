@@ -1,84 +1,80 @@
 const axios = require('axios');
-const cheerio = require('cheerio');
 const fs = require('fs');
 
-const BASE_URL = 'https://promptden.com';
+const API_URL = 'https://api.promptden.com/v1/prompts';
+const DETAIL_URL = slug => `https://api.promptden.com/v1/prompts/${slug}`;
+const BASE_POST_URL = 'https://promptden.com/post';
 
-async function getPostLinks() {
+async function fetchPromptDetail(slug) {
   try {
-    const { data: html } = await axios.get(BASE_URL);
-    const $ = cheerio.load(html);
-    const postLinks = new Set();
+    const { data } = await axios.get(DETAIL_URL(slug));
+    const item = data?.data;
 
-    $('a[href^="/post/"]').each((i, el) => {
-      const href = $(el).attr('href');
-      if (href) {
-        postLinks.add(`${BASE_URL}${href}`);
-      }
-    });
-
-    return Array.from(postLinks);
-  } catch (err) {
-    console.error('Lỗi khi lấy danh sách bài post:', err.message);
-    return [];
-  }
-}
-
-function capitalizeWords(str) {
-  return str
-    .split(' ')
-    .map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase())
-    .join(' ');
-}
-
-async function crawlPostDetail(url) {
-  try {
-    const { data: html } = await axios.get(url);
-    const $ = cheerio.load(html);
-
-    const title = $('h1.text-2xl').first().text().trim();
-    const description = $('p.mb-6').first().text().trim();
-    const prompt_used = $('p.leading-7.whitespace-break-spaces').first().text().trim();
-    const model = $('a[href^="/inspiration/"]').first().text().trim();
-
-    // Tags
-    const tags = [];
-    $('a.tag').each((i, el) => {
-      let tag = $(el).text().trim();
-      tag = capitalizeWords(tag);
-      if (tag) tags.push(tag);
-    });
-
-    // Image URL
-    const image_url = $('img[alt="' + title + '"]').first().attr('src') || '';
+    if (!item) {
+      console.warn(`⚠️ Không có dữ liệu chi tiết cho slug: ${slug}`);
+      return { description: '', prompt_used: '' };
+    }
 
     return {
-      url,
-      title,
-      description,
-      prompt_used,
-      model,
-      tags,
-      image_url
+      description: item.description || '',
+      prompt_used: item.prompt?.step1 || ''
     };
   } catch (err) {
-    console.error(`Lỗi khi crawl ${url}:`, err.message);
-    return null;
+    console.error(`❌ Lỗi khi lấy chi tiết "${slug}":`, err.message);
+    return { description: '', prompt_used: '' };
   }
 }
 
-async function crawlAllPosts() {
-  const postLinks = await getPostLinks();
+async function fetchInspirationPosts() {
+  let page = 1;
+  const limit = 20;
   const results = [];
 
-  for (const url of postLinks) {
-    console.log(`Đang crawl: ${url}`);
-    const data = await crawlPostDetail(url);
-    if (data) results.push(data);
-  }
+  while (true) {
+    console.log(`📄 Đang lấy trang ${page}...`);
+    try {
+      const { data } = await axios.get(API_URL, {
+        params: {
+          limit,
+          page,
+          'filter[kind]': 'inspiration'
+        }
+      });
 
-  fs.writeFileSync('post.json', JSON.stringify(results, null, 2), 'utf-8');
-  console.log('Đã lưu dữ liệu vào post.json');
+      const posts = data?.data;
+      if (!posts || posts.length === 0) {
+        console.log('✅ Không còn dữ liệu, kết thúc.');
+        break;
+      }
+
+      for (const post of posts) {
+        const slug = post.slug;
+        console.log(`🔍 Lấy chi tiết: ${slug}`);
+        const detail = await fetchPromptDetail(slug);
+
+        const entry = {
+          url: `${BASE_POST_URL}/${slug}`,
+          title: post.title,
+          description: detail.description,
+          prompt_used: detail.prompt_used,
+          model: post.type?.name || '',
+          tags: post.tags || [],
+          image_url: post.images?.[0]?.url || ''
+        };
+
+        results.push(entry);
+      }
+
+      // ✍️ Ghi file sau mỗi trang
+      fs.writeFileSync('post.json', JSON.stringify(results, null, 2), 'utf-8');
+      console.log(`💾 Đã ghi ${results.length} bài vào post.json sau trang ${page}`);
+
+      page++;
+    } catch (err) {
+      console.error(`❌ Lỗi khi lấy trang ${page}:`, err.message);
+      break;
+    }
+  }
 }
 
-crawlAllPosts();
+fetchInspirationPosts();

@@ -7,7 +7,7 @@ const allData = JSON.parse(fs.readFileSync("post.json", "utf-8"));
 // Hàm random UID
 function getRandomUid() {
   const fixedUids = [10, 12, 13, 15];
-  const rangeUids = Array.from({ length: 10 }, (_, i) => 26 + i).filter(uid => uid !== 28);
+  const rangeUids = Array.from({ length: 171 }, (_, i) => 50 + i);
   const allUids = fixedUids.concat(rangeUids);
   return allUids[Math.floor(Math.random() * allUids.length)];
 }
